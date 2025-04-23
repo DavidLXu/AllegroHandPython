@@ -4,7 +4,7 @@ Note: This project works only for PEAK System CAN interface (chardev) for USB: P
 
 This code is a wrapper on https://github.com/simlabrobotics/allegro_hand_linux_v4.
 
-Build the above C++ code first.
+Build the above C++ code first. After building, we have `./build/grasp/grasp` as a binary executable which is used in the python interface in this repo.
 
 Install Python libs
 
